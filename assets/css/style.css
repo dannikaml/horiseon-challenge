@@ -1,5 +1,5 @@
 /* Stylesheet */
-
+/* TODO: sort lines ascending (CTRL + SHIFT + P) */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -10,7 +10,7 @@
 body {
     background-color: #d9dcd6;
 }
- /*HEADER  */
+ /* HEADER  */
 
 header {
     padding: 20px;
